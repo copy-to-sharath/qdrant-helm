@@ -1,10 +1,10 @@
 apiVersion: v2
-name: qdrant
+name: qdrant-sharath
 description: Qdrant - Vector Database for the next generation of AI applications.
 home: https://qdrant.tech
 sources:
-  - https://github.com/qdrant/qdrant
-  - https://github.com/qdrant/qdrant-helm
+  - https://github.com/copy-to-sharath/qdrant
+  - https://github.com/copy-to-sharath/qdrant-helm
 keywords:
   - vector database
 maintainers:
