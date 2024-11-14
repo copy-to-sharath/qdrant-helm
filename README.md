@@ -37,3 +37,10 @@ image:
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+
+helm lint
+helm package qdrant -u -d .deploy  
+
+qdrant-helm/charts/qdrant
+helm install qdrant .
